@@ -76,7 +76,7 @@
     "babel-plugin-transform-react-display-name": "^6.4.0",
     "babel-plugin-transform-react-jsx": "^6.4.0",
     "babel-register": "^6.3.13",
-    "codecov": "^2.2.0",
+    "codecov": "^3.7.1",
     "create-react-class": "^15.5.3",
     "cross-env": "^5.0.1",
     "es3ify": "^0.2.0",
